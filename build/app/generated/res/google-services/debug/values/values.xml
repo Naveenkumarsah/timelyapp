@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">621294917950-3o1eeidcs8vn41fflitjbe5gisrtmjfn.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">621294917950</string>
+    <string name="google_api_key" translatable="false">AIzaSyDpdeZtmkTAJLNaRloGVuDBu9AY_-z0cFY</string>
+    <string name="google_app_id" translatable="false">1:621294917950:android:37b1d5b8b44a0c8815746f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDpdeZtmkTAJLNaRloGVuDBu9AY_-z0cFY</string>
+    <string name="google_storage_bucket" translatable="false">signin-appoint.appspot.com</string>
+    <string name="project_id" translatable="false">signin-appoint</string>
+</resources>

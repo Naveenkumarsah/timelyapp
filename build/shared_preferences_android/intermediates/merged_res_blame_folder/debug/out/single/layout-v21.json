@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\pc\\StudioProjects\\appointtask\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\pc\\.gradle\\caches\\transforms-2\\files-2.1\\37f65d9ede5915b9f72c877e6f0855ec\\core-1.6.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\StudioProjects\\appointtask\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\pc\\.gradle\\caches\\transforms-2\\files-2.1\\37f65d9ede5915b9f72c877e6f0855ec\\core-1.6.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\StudioProjects\\appointtask\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\pc\\.gradle\\caches\\transforms-2\\files-2.1\\37f65d9ede5915b9f72c877e6f0855ec\\core-1.6.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\StudioProjects\\appointtask\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\pc\\.gradle\\caches\\transforms-2\\files-2.1\\37f65d9ede5915b9f72c877e6f0855ec\\core-1.6.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

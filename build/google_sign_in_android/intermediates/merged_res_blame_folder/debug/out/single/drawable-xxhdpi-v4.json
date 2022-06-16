@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\pc\\StudioProjects\\appointtask\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\googleg_standard_color_18.png",
+        "source": "C:\\Users\\pc\\.gradle\\caches\\transforms-2\\files-2.1\\c53e1cb21ba9c8b6e099f271e4925b62\\jetified-play-services-base-18.0.1\\res\\drawable-xxhdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\StudioProjects\\appointtask\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "C:\\Users\\pc\\.gradle\\caches\\transforms-2\\files-2.1\\c53e1cb21ba9c8b6e099f271e4925b62\\jetified-play-services-base-18.0.1\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\StudioProjects\\appointtask\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "C:\\Users\\pc\\.gradle\\caches\\transforms-2\\files-2.1\\c53e1cb21ba9c8b6e099f271e4925b62\\jetified-play-services-base-18.0.1\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\StudioProjects\\appointtask\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\pc\\.gradle\\caches\\transforms-2\\files-2.1\\c53e1cb21ba9c8b6e099f271e4925b62\\jetified-play-services-base-18.0.1\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\StudioProjects\\appointtask\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "C:\\Users\\pc\\.gradle\\caches\\transforms-2\\files-2.1\\c53e1cb21ba9c8b6e099f271e4925b62\\jetified-play-services-base-18.0.1\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\StudioProjects\\appointtask\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png",
+        "source": "C:\\Users\\pc\\.gradle\\caches\\transforms-2\\files-2.1\\c53e1cb21ba9c8b6e099f271e4925b62\\jetified-play-services-base-18.0.1\\res\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png"
+    }
+]

@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\pc\\StudioProjects\\appointtask\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\pc\\StudioProjects\\appointtask\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "175,809",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "460,975"
+                    },
+                    "to": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,341",
+                        "endLines": "6,9",
+                        "endColumns": "12,12",
+                        "endOffsets": "336,505"
+                    }
+                }
+            ]
+        }
+    ]
+}

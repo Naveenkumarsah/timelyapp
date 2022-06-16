@@ -1,0 +1,81 @@
+name: firebase_signin
+description: A new Flutter project.
+
+
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+  firebase: ^9.0.2
+  google_sign_in: ^5.3.0
+
+  introduction_screen: ^3.0.2
+
+  image_picker: ^0.8.5
+  firebase_storage: ^10.2.12
+  uuid: ^3.0.6
+
+  flutter_slidable:
+  firebase_core: ^1.10.5
+  firebase_database: ^9.0.11
+  cloud_firestore: ^3.1.12
+  random_string: ^2.0.1
+  firebase_auth: ^3.3.3
+  flutter_zoom_drawer: ^3.0.1
+  provider: ^6.0.2
+  shared_preferences:
+
+  sqflite: ^2.0.2+1
+  flutter_staggered_grid_view: ^0.4.0-nullsafety.3
+
+  get: ^4.6.1
+
+  carousel_slider: ^4.0.0
+  http: ^0.13.4
+  webview_flutter: ^3.0.2
+
+  intl:
+  fluttertoast:
+
+  google_fonts: ^2.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons:
+
+flutter_icons:
+  android: true
+  image_path: "assets/icon/logo.png"
+  flutter_lints: ^1.0.0
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+
+  fonts:
+    - family: Klasik
+      fonts:
+        - asset: assets/fonts/Klasik Regular.otf
+
+    - family: lato
+      fonts:
+        - asset: assets/fonts/Lato-Regular.ttf
+        - asset: assets/fonts/Lato-Bold.ttf
+          weight: 800
+

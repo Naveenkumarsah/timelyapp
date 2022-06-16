@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "621294917950",
+    "project_id": "signin-appoint",
+    "storage_bucket": "signin-appoint.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621294917950:android:37b1d5b8b44a0c8815746f",
+        "android_client_info": {
+          "package_name": "com.example.appointtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621294917950-4kqmekd593rsee7sr54v8penb1qomq34.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appointtask",
+            "certificate_hash": "be21c65e48152721c14ef96854d654d2cba9acb3"
+          }
+        },
+        {
+          "client_id": "621294917950-3o1eeidcs8vn41fflitjbe5gisrtmjfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpdeZtmkTAJLNaRloGVuDBu9AY_-z0cFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621294917950-3o1eeidcs8vn41fflitjbe5gisrtmjfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
