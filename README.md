@@ -1,9 +1,6 @@
 # timelyapp
 appointment and task management mobile app using flutter
 ![image](https://user-images.githubusercontent.com/72648231/178997458-9f2fbb76-3565-47be-bd86-e48c9d79e788.png)
-# firebase Console 
-![1](https://user-images.githubusercontent.com/72648231/178992579-09547f51-3e0e-4ad2-8719-fee298b5a605.png)
-![2](https://user-images.githubusercontent.com/72648231/178992661-38e24a60-be5e-4019-9723-b454e58ab999.png)
 # On-boarding Screen 
 ![3](https://user-images.githubusercontent.com/72648231/178992694-ed65da49-656b-44d0-8bc2-03ac20e2f070.png)
 # SignIn/ Signup / Reset Password
@@ -24,5 +21,9 @@ appointment and task management mobile app using flutter
 ![11](https://user-images.githubusercontent.com/72648231/178996223-03512794-d96b-47b0-85e1-ea129cfaa990.png)
 # Stay updated with latest News
 ![12](https://user-images.githubusercontent.com/72648231/178996253-823dffb5-ceaa-49e1-96d5-45f3859d3a50.png)
+
+# firebase Console 
+![1](https://user-images.githubusercontent.com/72648231/178992579-09547f51-3e0e-4ad2-8719-fee298b5a605.png)
+![2](https://user-images.githubusercontent.com/72648231/178992661-38e24a60-be5e-4019-9723-b454e58ab999.png)
 
 # video 
