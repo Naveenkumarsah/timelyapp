@@ -9,7 +9,7 @@ appointment and task management mobile app using flutter
 ![5](https://user-images.githubusercontent.com/72648231/178993044-1acda882-dae7-435b-8b62-50ea28b50ba5.png)
 # Add new appointments and update appointments details
 ![6](https://user-images.githubusercontent.com/72648231/178995452-b8d40a99-c355-47a2-abd2-5c10dad2f0ed.png)
-#TODO 
+# TODO 
 ![7](https://user-images.githubusercontent.com/72648231/178995716-8bdb4848-71a8-4e85-be28-c2dd83e509c9.png)
 # Chat with friends
 ![8](https://user-images.githubusercontent.com/72648231/178995860-b68d7bd7-ab19-4271-9efd-7e8285489a81.png)
