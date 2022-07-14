@@ -21,6 +21,6 @@ appointment and task management mobile app using flutter
 ![10](https://user-images.githubusercontent.com/72648231/178996145-9e0b703b-af3f-493d-8b69-88b432c180c7.png)
 # NOTES
 ![11](https://user-images.githubusercontent.com/72648231/178996223-03512794-d96b-47b0-85e1-ea129cfaa990.png)
-#Stay updated with latest News
+# Stay updated with latest News
 ![12](https://user-images.githubusercontent.com/72648231/178996253-823dffb5-ceaa-49e1-96d5-45f3859d3a50.png)
 
